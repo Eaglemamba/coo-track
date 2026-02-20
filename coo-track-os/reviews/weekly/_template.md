@@ -1,0 +1,133 @@
+# Weekly Review — Week of [DATE]
+
+*30 minutes. Review daily check-ins from this week before starting.*
+
+---
+
+## Signal vs. Noise
+
+**What moved the needle this week?**
+*List 2-3 things that actually advanced important outcomes.*
+
+1.
+2.
+3.
+
+**What was noise?**
+*Activity that felt productive but did not change outcomes.*
+
+1.
+2.
+
+---
+
+## Cross-Functional Touchpoints
+
+**Which functions did I engage with this week?**
+
+- [ ] Operations (home base)
+- [ ] Quality
+- [ ] Supply Chain
+- [ ] Commercial
+- [ ] Finance
+- [ ] Regulatory
+
+**Quality of engagement** (surface-level / substantive / strategic):
+
+**One thing I learned outside my function this week:**
+
+---
+
+## Stakeholder Investment
+
+**One stakeholder relationship to invest in next week:**
+
+- Who:
+- Why:
+- Specific action:
+
+*Reference `tracking/stakeholder_map.md` — is this relationship on your priority list?*
+
+---
+
+## Time Leak Analysis
+
+**Where did time leak into low-leverage work this week?**
+
+-
+
+**What caused the leak?** (Calendar bloat / unclear priorities / inability to say no / reactive mode / other)
+
+**One change for next week to reduce leakage:**
+
+---
+
+## Strategic Insight
+
+**One strategic observation from this week — about the business, the industry, or your leadership development:**
+
+-
+
+*Is this insight worth tracking in `memory.md`?* [ Yes / No ]
+
+---
+
+## Delegation Check
+
+**What did I do this week that I should have delegated?**
+
+-
+
+**What did I successfully delegate? How did it go?**
+
+-
+
+---
+
+## Energy Pattern
+
+**Average energy this week (from daily check-ins):** /10
+
+**Energy high point:**
+
+**Energy low point:**
+
+**What drove the difference?**
+
+---
+
+## Content Pipeline
+
+**Anything worth developing into a post this week?**
+
+- [ ] Nothing this week
+- Idea:
+- Format: [ LinkedIn post / Substack article / Framework development / Other ]
+- Hook or angle:
+
+*If yes, add to `tracking/content_pipeline.md`*
+
+---
+
+## COO-Track Pulse Check
+
+**Did anything this week develop my COO-readiness?**
+
+- [ ] Yes — what:
+- [ ] No — what could I have done differently?
+
+---
+
+## Next Week's Focus
+
+**Top 3 priorities for next week:**
+
+1.
+2.
+3.
+
+**One thing I will intentionally NOT do next week:**
+
+---
+
+*Filed: reviews/weekly/[YYYY-Www].md*
