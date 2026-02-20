@@ -36,7 +36,7 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 - [Added as they emerge]
 
 ### Strategic Insights
-- [Added as they emerge]
+- **2026-02-20:** White Raven, a European CDMO, is already shipping AI-incorporated solutions in pharma CDMO operations (using SA25 filling machine). Validates AI-in-CDMO direction. Estimated gap to catch up: ~6 months. Connected with their CTO on LinkedIn. (Source: W08 weekly review)
 
 ---
 
@@ -44,7 +44,7 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 
 *Insights flagged during check-ins and reviews as worth developing into LinkedIn posts or Substack articles. Cross-reference with `tracking/content_pipeline.md`.*
 
-- [Added as they emerge — include the date and context where the insight surfaced]
+- **2026-02-20:** AI memory as personal retrospective tool — reviewing 13 months of Claude conversations reveals your own growth journey. Shorten analysis cycle to monthly. "I just reviewed 13 months of my AI conversations. What I found was a mirror of my own growth — not the AI's." (Source: daily check-in, queued for LinkedIn)
 
 ---
 

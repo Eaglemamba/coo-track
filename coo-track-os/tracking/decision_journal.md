@@ -22,35 +22,35 @@ A log of significant decisions — capturing context, reasoning, and outcomes ov
 
 ## Decision Log
 
-### Decision #[NUMBER]
+### Decision #1
 
-**Date:** [DATE]
+**Date:** 2026-02-20
 
-**Decision:** [One sentence — what you decided]
+**Decision:** Adopt Claude Code + Claude Cowork + Claude Chat as the integrated AI workflow platform for daily operations and team processes.
 
-**Context:** [What was happening? What pressured or enabled this decision?]
+**Context:** Chinese New Year holiday — used downtime to explore Claude Code. Analyzed 13 months of past AI conversation data. Discovered the tool ecosystem is mature enough to structure daily workflows, team accountability (e.g., Ruya/PM), and operational processes (SOP RAG, GMP docs). White Raven (European CDMO) already shipping AI solutions validates urgency.
 
 **Options considered:**
-1.
-2.
-3.
+1. Continue ad-hoc AI usage across different tools
+2. Standardize on Claude ecosystem (Code + Cowork + Chat) with structured workflows
+3. Wait until after Q1 to evaluate AI tooling more broadly
 
-**What I chose and why:**
+**What I chose and why:** Option 2 — the tooling is ready, the competitive landscape (White Raven) shows ~6 month gap, and the holiday provided time to replan workflows intentionally.
 
-**What I explicitly decided NOT to do and why:**
+**What I explicitly decided NOT to do and why:** Wait (option 3) — the gap is closing. Also decided not to stay ad-hoc (option 1) — structured workflows create accountability that ad-hoc usage cannot.
 
-**Confidence level at time of decision (1-5):**
+**Confidence level at time of decision (1-5):** 4
 
-**Who I consulted:**
+**Who I consulted:** Self (holiday period — informed by 13-month retrospective analysis)
 
-**Mental model(s) applied:** [Reference `mental_models.md` — e.g., "Timing Over Argument," "Constraint Layering"]
+**Mental model(s) applied:** Tooling Layer (AI as fourth organizational capability)
 
-**Stakeholders affected:** [Reference `tracking/stakeholder_map.md`]
+**Stakeholders affected:** Ruya (PM), operations team, self
 
 **Outcome check:**
-- 30-day check: [DATE] —
-- 90-day check: [DATE] —
-- 180-day check: [DATE] —
+- 30-day check: 2026-03-22 —
+- 90-day check: 2026-05-21 —
+- 180-day check: 2026-08-19 —
 
 **Retrospective learning:**
 

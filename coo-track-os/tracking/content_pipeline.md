@@ -32,9 +32,7 @@ Capturing publishable insights as they surface — from daily check-ins, weekly 
 
 | Date | Raw Insight | Source | Potential Format |
 |------|-----------|--------|-----------------|
-| | | Daily check-in / Weekly review / Meeting / Project / Conversation | LinkedIn / Substack / Framework / Thread |
-| | | | |
-| | | | |
+| 2026-02-20 | AI memory as personal retrospective tool — reviewing 13 months of Claude conversations reveals your own growth journey. Case for monthly AI memory analysis cycles. Hook: "I just reviewed 13 months of my AI conversations. What I found was a mirror of my own growth — not the AI's." | Daily check-in / Weekly review | LinkedIn post |
 | | | | |
 | | | | |
 

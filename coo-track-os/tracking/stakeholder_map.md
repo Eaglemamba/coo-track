@@ -42,7 +42,7 @@ A strategic view of the relationships that matter for your COO transition and cu
 
 | Name / Role | Development Focus | Current Capability | Potential | Last Development Conversation | Next Action |
 |------------|------------------|-------------------|-----------|------------------------------|-------------|
-| | | | | | |
+| Ruya / PM (OP dept) | Accountability & AI workflow adoption | Needs structure — less accountable, hard to control | Can own PM deliverables if given the right framework | — | Introduce AI workflow to her PM responsibilities as accountability mechanism |
 
 ### Tier 4: External / Industry
 
