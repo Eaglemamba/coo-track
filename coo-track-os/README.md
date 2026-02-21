@@ -89,20 +89,43 @@ The system will reference `memory.md` in future check-ins and reviews.
 
 ---
 
-## File Map
+## File Map & Update Schedule
 
-| File | Purpose |
-|------|---------|
-| `principles.md` | Non-negotiable operating principles |
-| `north_star.md` | Current direction and purpose |
-| `mental_models.md` | Thinking frameworks that guide decisions |
-| `memory.md` | Accumulated insights from reflections and uploads |
-| `frameworks/` | Structured frameworks for deep reflection |
-| `interviews/` | Self-interview scripts for leadership development |
-| `reviews/` | Templates for all five cadences |
-| `goals/` | 1-year, 3-year, and 5-year goal documents |
-| `tracking/` | Ongoing logs for decisions, stakeholders, delegation, learning, content |
-| `uploads/` | Storage for past documents to be analyzed |
+| File | Purpose | Update Frequency | Trigger |
+|------|---------|-----------------|---------|
+| **Core** | | | |
+| `principles.md` | Non-negotiable operating principles | Rarely | When principles are refined |
+| `north_star.md` | Current direction and purpose | Annually | `/annual` review |
+| `mental_models.md` | Thinking frameworks that guide decisions | As developed | When new models emerge |
+| `memory.md` | Accumulated insights from reflections and uploads | As insights emerge | Any review or `/review-memory` |
+| **Frameworks** | | | |
+| `frameworks/annual_review.md` | Dr. Anthony Gustin's deep reflection framework | Annually | `/annual` review |
+| `frameworks/vivid_vision.md` | Tony Robbins-style 3-year vision | Annually | `/annual` review |
+| `frameworks/ideal_life_costing.md` | Tim Ferriss's lifestyle design | Annually | `/annual` review |
+| `frameworks/life_map.md` | Alex Lieberman's 6 dimensions | Annually | `/annual` review |
+| `frameworks/cross_functional_competency.md` | Ops, Quality, Supply Chain, Commercial, Finance, Regulatory | Monthly | `/monthly` review |
+| `frameworks/coo_readiness_assessment.md` | Gap analysis against COO target | Quarterly | `/quarterly` review |
+| `frameworks/tooling_layer.md` | AI as fourth organizational capability | As needed | When AI tooling strategy evolves |
+| **Interviews** | | | |
+| `interviews/` | Self-interview scripts for leadership development | Quarterly | Rotate one per `/quarterly` review |
+| **Reviews** | | | |
+| `reviews/daily/` | Daily check-in files | Daily | `/daily` |
+| `reviews/weekly/` | Weekly review files | Weekly | `/weekly` |
+| `reviews/monthly/` | Monthly review files | Monthly | `/monthly` |
+| `reviews/quarterly/` | Quarterly review files | Quarterly | `/quarterly` |
+| `reviews/annual/` | Annual review files | Annually | `/annual` |
+| **Goals** | | | |
+| `goals/1_year.md` | One-year goals | Quarterly | `/quarterly` review |
+| `goals/3_year.md` | Three-year goals | Annually | `/annual` review |
+| `goals/5_year_coo.md` | Five-year COO target | Annually | `/annual` review |
+| **Tracking** | | | |
+| `tracking/decision_journal.md` | Significant decisions with context and outcomes | Within 24h of decision | `/decision` or any review |
+| `tracking/stakeholder_map.md` | Key relationships for COO transition | Weekly + as needed | `/weekly` review |
+| `tracking/delegation_log.md` | What you release and how it goes | As delegated + monthly | `/monthly` review |
+| `tracking/commercial_learning.md` | Learning outside core operations | Monthly + as learned | `/monthly` review |
+| `tracking/content_pipeline.md` | Ideas for LinkedIn/Substack | Weekly + as captured | `/capture` or `/weekly` review |
+| **Uploads** | | | |
+| `uploads/` | Past documents for analysis into memory.md | As available | `/review-memory` |
 
 ---
 
