@@ -56,6 +56,40 @@ A log of significant decisions — capturing context, reasoning, and outcomes ov
 
 ---
 
+### Decision #2
+
+**Date:** 2026-02-25
+
+**Decision:** Proactively propose Knowledge Retention Project and AI GMP Documentation Project to VP of Operations (new boss), positioning myself as project lead.
+
+**Context:** First week back from Chinese New Year. RAG SOP POC validated across 8 SOPs (Feb 23). GMP redact pipeline completed (Feb 24). Had enough proof points to make a credible proposal. VP is new boss — early relationship, first substantive interaction on AI initiatives. Timing: propose before being assigned, to own the narrative and direction.
+
+**Options considered:**
+1. Wait for VP to define AI project scope and assign it
+2. Proactively propose both projects with existing POC evidence, positioning self as lead
+3. Propose only the smaller project (Knowledge Retention) first, then expand later
+
+**What I chose and why:** Option 2 — proposed both projects together. Had enough POC validation to be credible. VP is new and forming impressions — early proactive proposals shape how he sees my capabilities. His COVID/Teams story confirmed the playbook: build it yourself first, become the expert.
+
+**What I explicitly decided NOT to do and why:** Wait to be assigned (option 1) — passive positioning loses the initiative. Also decided against the incremental approach (option 3) — had enough evidence for both, and presenting a broader vision signals strategic thinking, not just task execution.
+
+**Confidence level at time of decision (1-5):** 4
+
+**Who I consulted:** Self — informed by POC results, competitive intelligence (White Raven), and VP's own leadership stories.
+
+**Mental model(s) applied:** Tooling Layer (AI as organizational capability); "Lead by proposing, not waiting."
+
+**Stakeholders affected:** VP of Operations, operations team, QA (GMP documentation users), knowledge holders approaching retirement
+
+**Outcome check:**
+- 30-day check: 2026-03-27 —
+- 90-day check: 2026-05-26 —
+- 180-day check: 2026-08-24 —
+
+**Retrospective learning:**
+
+---
+
 ### Decision #[NUMBER]
 
 **Date:**

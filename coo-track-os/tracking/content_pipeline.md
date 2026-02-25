@@ -33,8 +33,10 @@ Capturing publishable insights as they surface — from daily check-ins, weekly 
 | Date | Raw Insight | Source | Potential Format |
 |------|-----------|--------|-----------------|
 | 2026-02-20 | AI memory as personal retrospective tool — reviewing 13 months of Claude conversations reveals your own growth journey. Case for monthly AI memory analysis cycles. Hook: "I just reviewed 13 months of my AI conversations. What I found was a mirror of my own growth — not the AI's." | Daily check-in / Weekly review | LinkedIn post |
-| | | | |
-| | | | |
+| 2026-02-21 | GitHub as a dual-purpose platform — public repos for sharing educational content and thought leadership, private repos for self-development and personal operating systems. Version control isn't just for code — it's for tracking your own growth. | Daily check-in | LinkedIn post |
+| 2026-02-23 | AI SOP system isn't just retrieval — it's structured reasoning over layered documentation. Claude Code as a full dev workflow: build folder structures, test YAML/Python filtering, add relationship mindmaps, feed raw data for domain synthesis. Qualification reports are the missing piece. | Daily check-in | LinkedIn post / Substack article |
+| 2026-02-24 | "Sometimes building costs more time than just publishing an insight from observation or learning." — Once Amaran AI SOP projects hit their milestone, consolidate the full journey into one Substack article. | Daily check-in | Substack article |
+| 2026-02-25 | "Don't wait to be assigned — propose, position, and lead. The title catches up later." Also: "Build it yourself first, become the expert, then the team follows. Credibility comes from consistent delivery, not from rushing outcomes." (From VP's COVID/Teams story — same playbook applies to AI adoption.) | Daily check-in | LinkedIn post |
 
 ---
 
@@ -144,4 +146,4 @@ Capturing publishable insights as they surface — from daily check-ins, weekly 
 ---
 
 *Review cadence: Weekly capture check, monthly review*
-*Last updated: [DATE]*
+*Last updated: 2026-02-25*

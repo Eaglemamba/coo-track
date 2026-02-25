@@ -21,9 +21,9 @@ A strategic view of the relationships that matter for your COO transition and cu
 
 | Name / Role | Current Relationship (1-5) | Trust Level (1-5) | What They Need From Me | What I Need From Them | Last Meaningful Interaction | Next Action |
 |------------|--------------------------|-------------------|----------------------|---------------------|---------------------------|-------------|
+| VP of Operations (new boss) | 3 | 3 | Consistent delivery, efficiency proof points, don't rush outcomes | Support for AI initiatives, sponsorship, credibility with leadership | 2026-02-25 — Proposed Knowledge Retention + AI GMP projects; got green light | Continue delivering results; prepare kickoff meeting; build trust through output |
 | [Site GM / President] | | | | | | |
 | [Quality Director] | | | | | | |
-| [KEY STAKEHOLDERS] | | | | | | |
 
 ### Tier 2: Cross-Functional Development
 
@@ -43,6 +43,8 @@ A strategic view of the relationships that matter for your COO transition and cu
 | Name / Role | Development Focus | Current Capability | Potential | Last Development Conversation | Next Action |
 |------------|------------------|-------------------|-----------|------------------------------|-------------|
 | Ruya / PM (OP dept) | Accountability & AI workflow adoption | Needs structure — less accountable, hard to control | Can own PM deliverables if given the right framework | — | Introduce AI workflow to her PM responsibilities as accountability mechanism |
+| Andrew / OP1 squad lead | Leadership maturity — avoid micromanagement | Thoughtful leader, solid proposals, but manages very tiny things | Can own squad-level decisions independently | 2026-02-24 — Evaluated his task simplification proposal; gave context, said go for it | Monitor for micromanagement patterns; remind him to delegate within his squad |
+| Ellie / QA | Navigating blame-shifting dynamics, POC adoption | Facing friction on QA spin-off tasks; engaged and coachable | Can be a QA champion for AI-assisted documentation | 2026-02-23 — Walked her through POC and placeholder method | Follow up on placeholder method adoption; check if blame-shifting issue resolved |
 
 ### Tier 4: External / Industry
 
@@ -52,7 +54,8 @@ A strategic view of the relationships that matter for your COO transition and cu
 |---------------|------------------|---------------|-----------------|-------------|
 | LinkedIn community | Content audience | Thought leadership / Engagement | | |
 | Substack readers | Content audience | Deep thinking / Community | | |
-| [Industry contacts] | | | | |
+| White Raven CTO | Industry peer (European CDMO) | AI-in-CDMO knowledge exchange | 2026-02-20 — Connected on LinkedIn | Engage on AI implementation learnings; potential collaboration |
+| IMAPAC contact | Conference / Industry event | Speaking opportunity / Visibility | — | Send presentation info (from W08 priority) |
 
 ---
 
