@@ -82,6 +82,17 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 
 ---
 
+## Upcoming Review Triggers
+
+*Dates that should be surfaced during daily/weekly check-ins when they approach.*
+
+| Date | Type | What to Review | Source |
+|------|------|---------------|--------|
+| 2026-03-22 | 30-day decision check | Decision #1 — Claude ecosystem adoption. Did it change how you and the team work day-to-day, or is it still a solo workflow? | decision_journal.md |
+| 2026-03-27 | 30-day decision check | Decision #2 — Proactive project proposal to VP. Did the proposals convert into real projects with resources? How has the VP relationship evolved? | decision_journal.md |
+
+---
+
 ## Document Analysis Log
 
 *Track which documents have been analyzed and when.*
