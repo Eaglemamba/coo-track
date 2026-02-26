@@ -79,6 +79,7 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 ### Energy Patterns
 - **W08-W09 baseline (Feb 20-25):** 7, 6, 6, 6, 6. Slight dip from initial excitement (7 on Feb 20 — Claude Code discovery) to steady 6 through first work week. Not alarming but not energizing either. Watch for sustained 6s — may indicate "productive grind" without enough recharge or wins that create uplift. High point: POC validation (Feb 23). No energy spikes from leadership moments yet.
 - **Physical capacity note (Feb 25):** Steady 6s explained by sleep debt (late-night coding sessions) and shoulder pain (sour shoulder, likely from increased desk/coding hours since Claude Code adoption). Output remained high despite depleted reserves — but this is borrowing from future capacity. Risk: kickoff meeting prep (Thu) lands during a low-energy window. Action: protect sleep before high-visibility moments; adjust workstation setup to address shoulder strain.
+- **Feb 26:** 7 (6h sleep). First uptick since Feb 20. Energy rose on a day with leadership action (pre-aligning Andrew + Ellie on projects). Pattern emerging: energy responds to leadership momentum, not just rest.
 
 ---
 
