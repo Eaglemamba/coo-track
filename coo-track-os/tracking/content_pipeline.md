@@ -37,6 +37,8 @@ Capturing publishable insights as they surface — from daily check-ins, weekly 
 | 2026-02-23 | AI SOP system isn't just retrieval — it's structured reasoning over layered documentation. Claude Code as a full dev workflow: build folder structures, test YAML/Python filtering, add relationship mindmaps, feed raw data for domain synthesis. Qualification reports are the missing piece. | Daily check-in | LinkedIn post / Substack article |
 | 2026-02-24 | "Sometimes building costs more time than just publishing an insight from observation or learning." — Once Amaran AI SOP projects hit their milestone, consolidate the full journey into one Substack article. | Daily check-in | Substack article |
 | 2026-02-25 | "Don't wait to be assigned — propose, position, and lead. The title catches up later." Also: "Build it yourself first, become the expert, then the team follows. Credibility comes from consistent delivery, not from rushing outcomes." (From VP's COVID/Teams story — same playbook applies to AI adoption.) | Daily check-in | LinkedIn post |
+| 2026-02-27 | "Dump your brain to make room for growth" — VP (Wade) shared his knowledge transfer philosophy: if you don't transfer knowledge into writing, your brain can't accept new info. Keeping it secret is a risk. Passing it on lets others develop it while you level up. He practiced this during COVID, handed notes to his successor. Hook: "My VP told me the secret to his promotion: he gave away everything he knew." | Weekly review W09 | LinkedIn post |
+| 2026-02-27 | HBR insight: AI adoption success depends on communication cost between departments, not translation cost. Infrastructure play: unify file formats to MD so AI can facilitate cross-department communication. | Weekly review W09 / HBR article | LinkedIn post / Substack article |
 
 ---
 
@@ -146,4 +148,4 @@ Capturing publishable insights as they surface — from daily check-ins, weekly 
 ---
 
 *Review cadence: Weekly capture check, monthly review*
-*Last updated: 2026-02-25*
+*Last updated: 2026-02-27*

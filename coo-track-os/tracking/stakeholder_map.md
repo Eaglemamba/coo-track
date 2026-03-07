@@ -42,7 +42,7 @@ A strategic view of the relationships that matter for your COO transition and cu
 
 | Name / Role | Development Focus | Current Capability | Potential | Last Development Conversation | Next Action |
 |------------|------------------|-------------------|-----------|------------------------------|-------------|
-| Ruya / PM (OP dept) | Accountability & AI workflow adoption | Needs structure — less accountable, hard to control | Can own PM deliverables if given the right framework | — | Introduce AI workflow to her PM responsibilities as accountability mechanism |
+| Ruya / PM (OP dept) | PM function restoration — accountability & cross-dept coordination | PM function eroded over past few years. Positions herself above dept heads, leans on them to complete work, takes credit ("Yao Gong"). Sits at desk with minimal cross-dept interaction. | Can be an effective PM if returned to coordination role — owns manufacturing daily schedule, raw plan emails, pre/post-production coordination | 2026-02-26 — Andrew raised PM function gap; delegated the Ruya conversation to me | Talk to Ruya about project view/alignment. Reset PM expectations: coordination (not command) role. Frame as restoring PM value, not demotion. Challenge: her self-perception ("altitude") is high. |
 | Andrew / OP1 squad lead | Leadership maturity — avoid micromanagement | Thoughtful leader, solid proposals, but manages very tiny things | Can own squad-level decisions independently | 2026-02-24 — Evaluated his task simplification proposal; gave context, said go for it | Monitor for micromanagement patterns; remind him to delegate within his squad |
 | Ellie / QA | Navigating blame-shifting dynamics, POC adoption | Facing friction on QA spin-off tasks; engaged and coachable | Can be a QA champion for AI-assisted documentation | 2026-02-23 — Walked her through POC and placeholder method | Follow up on placeholder method adoption; check if blame-shifting issue resolved |
 
@@ -93,7 +93,8 @@ A strategic view of the relationships that matter for your COO transition and cu
 
 | Week | Stakeholder | Action Planned | Action Taken | Outcome |
 |------|------------|---------------|-------------|---------|
-| | | | | |
+| W08 | Ruya | Introduce AI workflow as accountability mechanism | Deferred — CNY holiday week | Carried to W09 |
+| W09 | Ruya | Talk to Ruya about PM function reset | Pending — scheduled for next week | |
 
 ---
 
