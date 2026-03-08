@@ -23,7 +23,7 @@ A strategic view of the relationships that matter for your COO transition and cu
 |------------|--------------------------|-------------------|----------------------|---------------------|---------------------------|-------------|
 | VP of Operations (new boss) | 3 | 3 | Consistent delivery, efficiency proof points, don't rush outcomes | Support for AI initiatives, sponsorship, credibility with leadership | 2026-02-25 — Proposed Knowledge Retention + AI GMP projects; got green light | Continue delivering results; prepare kickoff meeting; build trust through output |
 | [Site GM / President] | | | | | | |
-| [Quality Director] | | | | | | |
+| Xiaowen / Acting QA Head | 2 | 2 | Operational support, patience while she ramps up | QA decisions unblocked, timely QA actions for other departments | Limited — only onsite 1 day/week | Talk to Wade about increasing her attendance to 2-3 days/week |
 
 ### Tier 2: Cross-Functional Development
 
@@ -95,6 +95,7 @@ A strategic view of the relationships that matter for your COO transition and cu
 |------|------------|---------------|-------------|---------|
 | W08 | Ruya | Introduce AI workflow as accountability mechanism | Deferred — CNY holiday week | Carried to W09 |
 | W09 | Ruya | Talk to Ruya about PM function reset | Pending — scheduled for next week | |
+| W10 | Xiaowen (via Wade) | Propose increasing QA attendance from 1 to 2-3 days/week | Planned for W11 | |
 
 ---
 

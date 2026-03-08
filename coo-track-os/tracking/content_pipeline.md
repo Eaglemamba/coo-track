@@ -39,6 +39,8 @@ Capturing publishable insights as they surface — from daily check-ins, weekly 
 | 2026-02-25 | "Don't wait to be assigned — propose, position, and lead. The title catches up later." Also: "Build it yourself first, become the expert, then the team follows. Credibility comes from consistent delivery, not from rushing outcomes." (From VP's COVID/Teams story — same playbook applies to AI adoption.) | Daily check-in | LinkedIn post |
 | 2026-02-27 | "Dump your brain to make room for growth" — VP (Wade) shared his knowledge transfer philosophy: if you don't transfer knowledge into writing, your brain can't accept new info. Keeping it secret is a risk. Passing it on lets others develop it while you level up. He practiced this during COVID, handed notes to his successor. Hook: "My VP told me the secret to his promotion: he gave away everything he knew." | Weekly review W09 | LinkedIn post |
 | 2026-02-27 | HBR insight: AI adoption success depends on communication cost between departments, not translation cost. Infrastructure play: unify file formats to MD so AI can facilitate cross-department communication. | Weekly review W09 / HBR article | LinkedIn post / Substack article |
+| 2026-03-06 | "Help ≠ endless help" — when you automate or improve a process for another department, set a deadline for them to own it. Otherwise your help becomes their crutch. AI automation paradox: automating work for others can remove their accountability to deliver. | Daily check-in / Andre conversation | LinkedIn post |
+| 2026-03-07 | "Plan before you iterate with AI" — AI gives you many viable paths. The strategic skill isn't execution, it's choosing the right approach upfront. 2 weeks iterating on the wrong method costs more than 1 day evaluating all options. Hook: "AI doesn't have a speed problem. You have a selection problem." | Weekly review W10 | LinkedIn post / Substack article |
 
 ---
 
@@ -148,4 +150,4 @@ Capturing publishable insights as they surface — from daily check-ins, weekly 
 ---
 
 *Review cadence: Weekly capture check, monthly review*
-*Last updated: 2026-02-27*
+*Last updated: 2026-03-08*
