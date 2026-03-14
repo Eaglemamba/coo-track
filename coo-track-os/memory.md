@@ -22,6 +22,10 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 - **Accountability through systems, not control:** Ruya/PM approach — using AI workflow as accountability mechanism rather than direct control. Leadership philosophy worth developing further. (Observed: W08)
 - **Personal operating system as leadership practice:** coo-track-os is not just a tool but a leadership discipline — structured reflection as competitive advantage. (Observed: W08)
 
+### Leadership Patterns
+- **承上啟下 delegation (W11):** Director role as synthesis layer — information flows up from floor → group leaders aggregate → director synthesizes and reformats → VP receives summary. First real field delegation to group leaders (Edward + subordinates for YSP facility info). Not a relay; not doing the gathering. Adding judgment and synthesis in between is what the director level looks like operationally.
+- **Tooling Layer dilemma (W11):** Trained staff, provided templates, hoped for self-directed AI adoption. Reality: manager-assigned workloads leave no bandwidth. "One voice calling out, no one responding" is an adoption wall, not a motivation problem. Two unresolved paths: (1) build tooling for everyone — fast, tangible, but creates users not builders; (2) teach to fish — slower, requires protected time they don't have. Likely resolution: demonstrate value first (build it), create pull, then teach. But requires org-level decision on who owns AI tooling and whether it gets protected time. COO-level call, not individual initiative.
+
 ### Leadership Gaps
 - **Cross-functional engagement:** First data in W09 — engaged with QA (Ellie, Feb 23), OP1 (Andrew, Feb 24), and VP of Operations (Feb 25). Gap narrowing. Continue tracking breadth across Quality, Supply Chain, Commercial, Finance, Regulatory. (Updated: W09)
 - **Delegation practice:** Still no active delegations logged. "Nothing obvious today — currently deep in the AI project" (Feb 24). Build mode is understandable but watch for this becoming a pattern. First delegation opportunity may come as AI projects scale. (Updated: W09)

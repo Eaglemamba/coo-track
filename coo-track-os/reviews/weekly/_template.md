@@ -27,10 +27,9 @@
 
 - [ ] Operations (home base)
 - [ ] Quality
-- [ ] Supply Chain
-- [ ] Commercial
+- [ ] Supply Chain / Logistics
 - [ ] Finance
-- [ ] Regulatory
+- [ ] External (customers, auditors, regulators)
 
 **Quality of engagement** (surface-level / substantive / strategic):
 
