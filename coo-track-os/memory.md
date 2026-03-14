@@ -52,6 +52,8 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 
 ### Strategic Insights
 - **2026-02-20:** White Raven, a European CDMO, is already shipping AI-incorporated solutions in pharma CDMO operations (using SA25 filling machine). Validates AI-in-CDMO direction. Estimated gap to catch up: ~6 months. Connected with their CTO on LinkedIn. (Source: W08 weekly review)
+- **2026-02-23 (W09):** Communication cost > translation cost. The AI infrastructure play: convert SOPs, WIs, and critical docs to MD format — AI reads MD best, enabling cross-department communication at lower friction. Currently the only person with this awareness; adoption will be slow but will accelerate once efficiency is demonstrated. (Source: W09 weekly review)
+- **2026-03-06 (W10):** In the AI-assisted era, the bottleneck is approach selection, not execution. Plan before iterating; evaluate all paths by time-to-goal; commit once. Going deep on the wrong approach (Python v3–v5, 2 weeks) costs more than 1 day evaluating all options. Rule: before iterating more than twice on the same problem, stop and ask — is there a fundamentally different approach? (Source: W10 weekly review)
 
 ---
 
@@ -80,6 +82,7 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 - **W08-W09 baseline (Feb 20-25):** 7, 6, 6, 6, 6. Slight dip from initial excitement (7 on Feb 20 — Claude Code discovery) to steady 6 through first work week. Not alarming but not energizing either. Watch for sustained 6s — may indicate "productive grind" without enough recharge or wins that create uplift. High point: POC validation (Feb 23). No energy spikes from leadership moments yet.
 - **Physical capacity note (Feb 25):** Steady 6s explained by sleep debt (late-night coding sessions) and shoulder pain (sour shoulder, likely from increased desk/coding hours since Claude Code adoption). Output remained high despite depleted reserves — but this is borrowing from future capacity. Risk: kickoff meeting prep (Thu) lands during a low-energy window. Action: protect sleep before high-visibility moments; adjust workstation setup to address shoulder strain.
 - **Feb 26:** 7 (6h sleep). First uptick since Feb 20. Energy rose on a day with leadership action (pre-aligning Andrew + Ellie on projects). Pattern emerging: energy responds to leadership momentum, not just rest.
+- **W10–Mar 9 confirmation:** Pattern confirmed across multiple data points. Energy spikes to 7 on days with leadership interactions (coaching Urika, delegating to Edward, aligning stakeholders). Sustained 6s correlate with solo build phases. Implication: schedule leadership touchpoints intentionally — they are energy inputs, not energy costs.
 
 ---
 
