@@ -55,7 +55,8 @@ A strategic view of the relationships that matter for your COO transition and cu
 | LinkedIn community | Content audience | Thought leadership / Engagement | | |
 | Substack readers | Content audience | Deep thinking / Community | | |
 | White Raven CTO | Industry peer (European CDMO) | AI-in-CDMO knowledge exchange | 2026-02-20 — Connected on LinkedIn | Engage on AI implementation learnings; potential collaboration |
-| IMAPAC contact | Conference / Industry event | Speaking opportunity / Visibility | — | Send presentation info (from W08 priority) |
+| IMAPAC contact | Conference / Industry event | Speaking opportunity / Visibility | 2026-03-26 — Delivered symposium presentation to 300 people | Follow up with attendees; leverage for future speaking invitations |
+| EirGenix Chairman (劉董事長) | Potential partner/buyer (Taiwan CDMO, 400 ppl) | Vertical integration — upstream DS to downstream fill-finish; bridge manufacturing for biosimilars | 2026-03-27 — CEO site tour at Amaran; identified 8-10 batch opportunity pre-2030 | Follow up on cooperation proposal; already 2 active projects together |
 
 ---
 
@@ -96,6 +97,7 @@ A strategic view of the relationships that matter for your COO transition and cu
 | W08 | Ruya | Introduce AI workflow as accountability mechanism | Deferred — CNY holiday week | Carried to W09 |
 | W09 | Ruya | Talk to Ruya about PM function reset | Pending — scheduled for next week | |
 | W10 | Xiaowen (via Wade) | Propose increasing QA attendance from 1 to 2-3 days/week | Planned for W11 | |
+| W13 | Ryan & Wade | Escalate RA/EN resource redistribution + BT engagement | Planned for W14 | |
 
 ---
 
