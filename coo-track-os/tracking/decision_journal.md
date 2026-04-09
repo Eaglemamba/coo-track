@@ -90,6 +90,46 @@ A log of significant decisions — capturing context, reasoning, and outcomes ov
 
 ---
 
+### Decision #3
+
+**Date:** 2026-04-09
+
+**Decision:** Respond to Wade's management feedback with a structured counterstrategy — close operational loops immediately, reclaim information flow from Andre/Ed, and reframe AI work in company-aligned language.
+
+**Context:** Wade (VP of Operations) gave increasingly direct feedback over two consecutive weekly meetings. Week 1: "information black hole." Week 2: specific examples — power outage incident with no follow-up, subordinates bypassing me to reach him, implied my AI focus serves personal goals (LinkedIn, training) rather than company objectives. Department headcount has shrunk post-layoffs; Andre and Ed can communicate directly with Wade, making my Director layer potentially redundant. Suspicion: Wade may be building a narrative to remove the layer, not just coaching. Regardless of intent, the countermeasures are the same.
+
+**Options considered:**
+1. Take feedback at face value — fix the gaps Wade flagged (follow-up, decision-making) and assume good intent
+2. Strategic response — fix visible gaps AND proactively rebuild layer value, reframe AI narrative, build support network beyond Wade
+3. Confront Wade directly about his intentions — clear the air on whether this is coaching or positioning
+4. Start looking externally — assume the position is compromised and prioritize exit options
+
+**What I chose and why:** Option 2 — strategic response. Fixes the real gaps (which exist regardless of Wade's intent) while also addressing the political dimension. Option 1 is naive if Wade is positioning. Option 3 is premature and tips your hand. Option 4 is premature — there's still a window to redefine the role's value.
+
+**What I explicitly decided NOT to do and why:** Confront directly (option 3) — no upside if Wade denies it, and reveals that I've read his subtext. Also not jumping to external options (option 4) yet — the AI+CDMO combination has more runway here if the relationship can be managed. Will revisit in 60 days.
+
+**Confidence level at time of decision (1-5):** 3 — situation is ambiguous; Wade's true intent is uncertain.
+
+**Who I consulted:** Self (reflected during daily check-in with Claude)
+
+**Mental model(s) applied:** 承上啟下 (synthesis layer value); narrative control — don't fight the story, rewrite it with actions.
+
+**Stakeholders affected:** Wade (VP), Andre, Ed, self, broader OP team
+
+**Key actions:**
+- Short-term (this week): 24hr follow-up rule on all Wade-related items; weekly 1:1s with Andre and Ed; reframe AI language to operational KPIs
+- Mid-term (1-2 months): identify irreplaceable value (cross-functional integration, AI transformation strategy); build visibility beyond Wade
+- Contingency: reassess external options at 60-day mark (2026-06-08) if no improvement
+
+**Outcome check:**
+- 30-day check: 2026-05-09 — Has Wade's feedback tone shifted? Are follow-up gaps closed? Is information flowing through me again?
+- 90-day check: 2026-07-08 — Is the role's value proposition redefined? Has the bypass pattern stopped? Any external options explored?
+- 180-day check: 2026-10-06 — Relationship trajectory with Wade. Role stability. COO path still viable here?
+
+**Retrospective learning:**
+
+---
+
 ### Decision #[NUMBER]
 
 **Date:**

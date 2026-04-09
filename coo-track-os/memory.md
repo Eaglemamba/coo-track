@@ -98,6 +98,9 @@ This file stores accumulated insights from reflections, uploaded documents, and 
 |------|------|---------------|--------|
 | 2026-03-22 | 30-day decision check | Decision #1 — Claude ecosystem adoption. Did it change how you and the team work day-to-day, or is it still a solo workflow? | decision_journal.md |
 | 2026-03-27 | 30-day decision check | Decision #2 — Proactive project proposal to VP. Did the proposals convert into real projects with resources? How has the VP relationship evolved? | decision_journal.md |
+| 2026-05-09 | 30-day decision check | Decision #3 — Wade counterstrategy. Has feedback tone shifted? Follow-up gaps closed? Information flowing through you again? | decision_journal.md |
+| 2026-06-08 | 60-day reassessment | Decision #3 — Reassess external options if Wade relationship has not improved. | decision_journal.md |
+| 2026-07-08 | 90-day decision check | Decision #3 — Role value proposition redefined? Bypass pattern stopped? External options explored? | decision_journal.md |
 
 ---
 
