@@ -98,6 +98,16 @@ A log of significant decisions — capturing context, reasoning, and outcomes ov
 
 **Context:** Wade (VP of Operations) gave increasingly direct feedback over two consecutive weekly meetings. Week 1: "information black hole." Week 2: specific examples — power outage incident with no follow-up, subordinates bypassing me to reach him, implied my AI focus serves personal goals (LinkedIn, training) rather than company objectives. Department headcount has shrunk post-layoffs; Andre and Ed can communicate directly with Wade, making my Director layer potentially redundant. Suspicion: Wade may be building a narrative to remove the layer, not just coaching. Regardless of intent, the countermeasures are the same.
 
+**Structural analysis (added same day):**
+- Original OP structure: VP vacant → Director (me) → multiple Heads → teams. Post-restructuring: Wade (VP) → Director (me) → Andre + Ed only.
+- The traditional Director functions (weekly OP meetings, progress tracking, decision relay) became structurally redundant when Wade filled the VP layer above and headcount shrank to 2 Heads below.
+- I stopped weekly OP meetings with Andre/Ed after restructuring — trusted them to self-manage, and they were already reporting ad-hoc. But I didn't replace those meetings with anything new. Left a vacuum.
+- Andre and Ed get pulled directly by Finance VP and BD VP for cross-department discussions — they are being used as direct contacts, bypassing my layer entirely.
+- Andre appears to report to me daily, but in practice has the most direct contact with Wade.
+- Meanwhile my time shifted to IMAPAC conference preparation and AI projects — visible, but not in the management domain Wade is evaluating me on.
+- Core issue: I'm being judged by the old role's standards (management relay) while the old role no longer exists. I haven't yet defined or occupied the new role (strategic synthesis + AI transformation layer).
+- This is not a dead end — it's a role transformation window. The race: redefine the role's value faster than Wade decides the layer is unnecessary.
+
 **Options considered:**
 1. Take feedback at face value — fix the gaps Wade flagged (follow-up, decision-making) and assume good intent
 2. Strategic response — fix visible gaps AND proactively rebuild layer value, reframe AI narrative, build support network beyond Wade
@@ -117,8 +127,10 @@ A log of significant decisions — capturing context, reasoning, and outcomes ov
 **Stakeholders affected:** Wade (VP), Andre, Ed, self, broader OP team
 
 **Key actions:**
-- Short-term (this week): 24hr follow-up rule on all Wade-related items; weekly 1:1s with Andre and Ed; reframe AI language to operational KPIs
-- Mid-term (1-2 months): identify irreplaceable value (cross-functional integration, AI transformation strategy); build visibility beyond Wade
+- Short-term (this week): 24hr follow-up rule on all Wade-related items; restart 1:1s with Andre and Ed — not progress tracking, but intel gathering ("what meetings were you pulled into? what's stuck?"); reframe AI language to operational KPIs
+- Short-term (this week): synthesize Andre/Ed intel into a weekly "OP cross-functional dynamics" brief for Wade — demonstrate the synthesis layer value that Andre/Ed can't provide
+- Mid-term (1-2 months): redefine role from "management relay" to "strategic translation layer + AI transformation lead"; identify and occupy the gap between Wade's strategic needs and Andre/Ed's operational execution
+- Mid-term: frame IMAPAC and AI work as company brand assets, not personal interests — report to Wade in his language ("client visibility", "competitive positioning")
 - Contingency: reassess external options at 60-day mark (2026-06-08) if no improvement
 
 **Outcome check:**
